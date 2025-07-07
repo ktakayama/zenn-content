@@ -1,7 +1,7 @@
 ---
 title: "Claude Codeによる実践的な開発フローと周辺ツール"
 emoji: "🎼"
-type: "idea"
+type: "tech"
 topics: ["AI", "ClaudeCode"]
 published: true
 publication_name: arm_techblog
