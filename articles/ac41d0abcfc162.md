@@ -35,7 +35,7 @@ fvm install
 fvm flutter pub get
 ```
 
-以下の画面から設定します。`Run and snapshot`をクリックして一旦実行しないと保存されないので注意してください。
+以下の画面から設定します。`Run and snapshot`をクリックしていったん実行しないと保存されないので注意してください。
 
 ![](/images/ac41d0abcfc162/configuration.png)
 
