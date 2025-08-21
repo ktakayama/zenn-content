@@ -1,5 +1,5 @@
 ---
-title: "JulesでFlutterアプリのビルドをする"
+title: "JulesでFlutterアプリの環境設定をする"
 emoji: "🎼"
 type: "tech"
 topics: ["jules", "flutter", "fvm"]
