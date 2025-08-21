@@ -3,7 +3,7 @@ title: "JulesでFlutterアプリの環境設定をする"
 emoji: "🎼"
 type: "tech"
 topics: ["jules", "flutter", "fvm"]
-published: false
+published: true
 publication_name: arm_techblog
 ---
 
